@@ -1,1 +1,26 @@
+Project Requirements for Personal Introduction Program<br>
+
+1. Operating System<br>
+Primary: Windows 10 <br>
+
+2. Python Version<br>
+Python 3.8 or higher is required.<br>
+Ensure pip is installed to manage optional libraries.
+
+3. Libraries / Dependencies<br>
+No external libraries are needed for basic input/output.<br>
+
+
+4. Hardware Requirements<br>
+CPU: Any modern processor (Intel or AMD)<br>
+RAM: Minimum 2 GB<br>
+Storage: Minimum 100 MB free disk space<br>
+Input/Output: Keyboard and Monitor<br>
+
+5. Software Requirements<br>
+Python interpreter installed on your system<br>
+
+6. Tools Used<br>
+Google Colab – for interactive development and testing<btr>
+
 
