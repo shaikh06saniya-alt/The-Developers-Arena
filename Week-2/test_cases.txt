@@ -1,74 +1,74 @@
-STUDENT GRADE CALCULATOR - TEST CASES<br>
-<br>
-----------------------------------<br>
-Test Case 1<br>
-----------------------------------<br>
-Input:<br>
-Student Name: Alice<br>
-Marks: 95<br>
-Output:<br>
-Grade: A<br>
-Message: Excellent work!<br>
-<br>
-----------------------------------<br>
-Test Case 2<br>
-----------------------------------<br>
-Input:<br>
-Student Name: Bob<br>
-Marks: 85<br>
-Output:<br>
-Grade: B<br>
-Message: Very Good! Keep it up!<br>
-<br>
-----------------------------------<br>
-Test Case 3<br>
-----------------------------------<br>
-Input:<br>
-Student Name: Charlie<br>
-Marks: 72<br>
-Output:<br>
-Grade: C<br>
-Message: Good effort!<br>
-<br>
-----------------------------------<br>
-Test Case 4<br>
-----------------------------------<br>
-Input:<br>
-Student Name: Diana<br>
-Marks: 60<br>
-Output:<br>
-Grade: D<br>
-Message: Keep practicing!<br>
-<br>
-----------------------------------<br>
-Test Case 5<br>
-----------------------------------<br>
-Input:<br>
-Student Name: Evan<br>
-Marks: 45<br>
-Output:<br>
-Grade: F<br>
-Message: Don't give up!<br>
-<br>
-<br>
-----------------------------------<br>
-Test Case 6 (Invalid Input - Negative Marks)<br>
-----------------------------------<br>
-Input:<br>
-Marks: 120<br>
-Then:<br>
-Marks: 88<br>
-Output:<br>
-Marks must be between 0 and 100.<br>
-<br>
-----------------------------------<br>
-Test Case 7 (Invalid Type):<br>
-----------------------------------<br>
-Input:<br>
-Marks: abc<br>
-Then:<br>
-Marks: 70<br>
-Output:<br>
-Enter valid numbers only.<br>
-<br>
-----------------------------------<br>
+STUDENT GRADE CALCULATOR - TEST CASES
+
+----------------------------------
+Test Case 1
+----------------------------------
+Input:
+Student Name: Alice
+Marks: 95
+Output:
+Grade: A
+Message: Excellent work!
+
+----------------------------------
+Test Case 2
+----------------------------------
+Input:
+Student Name: Bob
+Marks: 85
+Output:
+Grade: B
+Message: Very Good! Keep it up!
+
+----------------------------------
+Test Case 3
+----------------------------------
+Input:
+Student Name: Charlie
+Marks: 72
+Output:
+Grade: C
+Message: Good effort!
+
+----------------------------------
+Test Case 4
+----------------------------------
+Input:
+Student Name: Diana
+Marks: 60
+Output:
+Grade: D
+Message: Keep practicing!
+
+----------------------------------
+Test Case 5
+----------------------------------
+Input:
+Student Name: Evan
+Marks: 45
+Output:
+Grade: F
+Message: Don't give up!
+
+
+----------------------------------
+Test Case 6 (Invalid Input - Negative Marks)
+----------------------------------
+Input:
+Marks: 120
+Then:
+Marks: 88
+Output:
+Marks must be between 0 and 100.
+
+----------------------------------
+Test Case 7 (Invalid Type):
+----------------------------------
+Input:
+Marks: abc
+Then:
+Marks: 70
+Output:
+Enter valid numbers only.
+
+----------------------------------
