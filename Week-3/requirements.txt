@@ -1,1 +1,36 @@
 
+ Project: Sales Data Analysis
+Week: 3 – Introduction to Data Analysis
+Programming Language
+Python is required to run the analysis script
+python>=3.8
+
+Core Library:
+ Pandas is used for data loading, cleaning, and analysis
+pandas>=1.5
+
+ Execution Environment:
+ This project is designed to run on:
+ - Google Colab (recommended for beginners)
+ - Jupyter Notebook
+ - Local Python environment
+
+ Hardware Requirements:
+ Minimum: 4 GB RAM
+ Recommended: 8 GB RAM for smooth data processing
+ Processor: Any modern CPU (Intel / AMD)
+
+ Operating System Compatibility:
+ Windows, macOS, and Linux supported
+ OS-independent when executed on Google Colab
+
+Notes:
+ No additional third-party libraries are required
+ Internet connection is only needed to upload the dataset in Colab
+
+
+
+
+
+
+
