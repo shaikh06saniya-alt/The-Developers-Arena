@@ -1,60 +1,60 @@
-E-commerce Sales Analysis Project
+E-commerce Sales Analysis Project<br><br>
 
-Project Overview:
-This project shows a complete data analysis workflow for an e-commerce business using Python.
-It includes all main steps: loading data, cleaning it, exploring it, analyzing it, making charts, and writing insights.
+#Project Overview:<br>
+This project shows a complete data analysis workflow for an e-commerce business using Python.<br>
+It includes all main steps: loading data, cleaning it, exploring it, analyzing it, making charts, and writing insights.<br><br>
 
-Dataset Description:
-The dataset sales_data.csv has records of sales from an e-commerce store. Columns include:
+#Dataset Description:<br>
+The dataset sales_data.csv has records of sales from an e-commerce store. Columns include:<br><br>
+Date – Date of the transaction<br>
+Product – Product sold<br>
+Quantity – Number of units sold<br>
+Price – Price per unit<br>
+Total_Sales – Total sales amount for that transaction<br>
+Customer_ID – Unique ID for each customer<br>
+Region – Customer’s region<br><br>
 
-Date – Date of the transaction
-Product – Product sold
-Quantity – Number of units sold
-Price – Price per unit
-Total_Sales – Total sales amount for that transaction
-Customer_ID – Unique ID for each customer
-Region – Customer’s region
+#Project Goals:<br>
 
-Project Goals:
-1.Clean and Prepare Data
-Remove duplicate rows and handle missing values
-Convert Date column to datetime format for time-based analysis
+1.Clean and Prepare Data<br>
+  - Remove duplicate rows and handle missing values<br>
+  - Convert Date column to datetime format for time-based analysis<br><br>
 
-2.Explore Data
-Check dataset structure and summary statistics
-See how sales are distributed across products and regions
+2.Explore Data<br>
+  - Check dataset structure and summary statistics<br>
+  - See how sales are distributed across products and regions<br><br>
 
-3.Analyze Sales
-Calculate total sales for the store
-Find the best-selling product
-Calculate average sales per product
-Identify the top 3 products contributing the most revenue
+3.Analyze Sales<br>
+  - Calculate total sales for the store<br>
+  - Find the best-selling product<br>
+  - Calculate average sales per product<br>
+  - Identify the top 3 products contributing the most revenue<br><br>
 
-4.Visualize Data
-Bar chart: Total sales by product
-Pie chart: Sales distribution by product
-Line chart: Monthly sales trend
+4.Visualize Data<br>
+  - Bar chart: Total sales by product<br>
+  - Pie chart: Sales distribution by product<br>
+  - Line chart: Monthly sales trend<br><br>
 
-5.Report Insights
-Save all charts in the visualalizations/ folder
-Write observations and actionable insights
+5.Report Insights<br>
+  - Save all charts in the visualizations/ folder<br>
+  - Write observations and actionable insights<br><br>
 
-#Why This Project is Useful:
-Helps understand which products customers buy the most
-Shows trends in sales over time
-Helps make better decisions for inventory, marketing, and sales
-Demonstrates a complete workflow of data analysis using Python
+#Why This Project is Useful:<br>
+  - Helps understand which products customers buy the most<br>
+  - Shows trends in sales over time<br>
+  - Helps make better decisions for inventory, marketing, and sales<br>
+  - Demonstrates a complete workflow of data analysis using Python<br><br>
 
-#Details of Visualizations:
+#Details of Visualizations:<br><br>
 
-1.Bar Chart: Sales by Product (sales_by_product.png)
-Shows total sales for each product.
-Helps to see which products sell the most and which sell the least.
+1.Bar Chart: Sales by Product (sales_by_product.png)<br>
+  - Shows total sales for each product.<br>
+  - Helps to see which products sell the most and which sell the least.<br><br>
 
-2.Pie Chart: Sales Distribution (sales_distribution.png)
-Shows each product’s share of total sales.
-Gives a quick overview of which products contribute most to revenue.
+2.Pie Chart: Sales Distribution (sales_distribution.png)<br>
+  - Shows each product’s share of total sales.<br>
+  - Gives a quick overview of which products contribute most to revenue.<br><br>
 
-3.Line Chart: Monthly Sales Trend (monthly_sales_trend.png)
-Shows total sales for each month.
-Helps to understand seasonal trends or how sales change over time.
+3.Line Chart: Monthly Sales Trend (monthly_sales_trend.png)<br>
+  - Shows total sales for each month.<br>
+  - Helps to understand seasonal trends or how sales change over time.<br>
